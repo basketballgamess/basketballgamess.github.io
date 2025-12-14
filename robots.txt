@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basketballgamess.github.io/sitemap.xml
